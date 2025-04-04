@@ -47,7 +47,7 @@
     /* padding: 0px;
     margin:0px; */
     height:100px;
-    width: 141px;
+    width: 143px;
     border:2px solid black;
 }
 
@@ -74,14 +74,14 @@
 .ninth{
     background-color: gray;
     height:150px;
-    width: 320px;
+    width: 322px;
     border:2px solid black;
 }
 
 .tenth{
     background-color: pink;
     height:150px;
-    width: 320px;
+    width: 322px;
     border:2px solid black;
 }
 
@@ -98,7 +98,7 @@
     background-color: rgb(255, 0, 200);
     padding: 0px;
     margin:0px;
-    width:315px;
+    width:319px;
     height:150px;
     border:2px solid black;
 }
@@ -113,7 +113,7 @@
 .fourteen{
     background-color:cornflowerblue;
     height:300px;
-    /* width:420px; */
+    width:420px;
     border:2px solid black;
     
 }
